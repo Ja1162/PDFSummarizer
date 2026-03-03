@@ -1,0 +1,44 @@
+# # Environment variables
+# .env
+# .env.*
+
+# # Virtual environments
+# venv/
+# .venv/
+# env/
+
+# # Python cache
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+
+# # VS Code
+# .vscode/
+
+# # OS junk
+# .DS_Store
+# Thumbs.db
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile*
+
+# PDFs or non-essential files (optional)
+Computing_Cheat_Sheet.pdf
